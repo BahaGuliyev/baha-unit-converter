@@ -1,0 +1,32 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #1F2937;
+}
+.up{
+  background-image: linear-gradient(
+  65deg,
+  hsl(238deg 99% 67%) 0%,
+  hsl(268deg 81% 62%) 20%,
+  hsl(290deg 66% 56%) 40%,
+  hsl(309deg 70% 54%) 60%,
+  hsl(321deg 85% 57%) 80%,
+  hsl(331deg 96% 60%) 100%
+);
+}
+.down{
+  background-color: #1F2937;
+}
+.hesablanan-yer{
+  color: #D2D2D2;
+}
+#daxil-el{
+  background-color: transparent;
+  border:none;
+  font-size: 100px;
+}
